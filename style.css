@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+:root {
+    --black: #333;
+    --white: #fff;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-block: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--white);
+    z-index: 1000;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+    transition: 0.5s;
+    border: 1px solid red;
+}
+
+header.sticky {
+    padding: 10px 100px;
+}
+
+.logo {
+    position: relative;
+    display: inline-block;
+    color: var(--black);
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border: 1px solid red;
+    margin-left: 20px;
+}
+
+.menuToggle {
+    cursor: pointer;
+    font-size: 30px; /* Taille de l'icône */
+    color: var(--black);
+    font-family: 'Material Symbols Outlined'; /* Assurer l'utilisation de la police */
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    margin-right: 20px;
+    border: 1px solid red;
+}
+
+.navigation {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: var(--white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 999;
+    transition: 0.25s;
+    opacity: 0;
+    visibility: hidden;
+    border: 1px solid red;
+}
+
+.navigation.active {
+    opacity: 1;
+    visibility: visible;
+    border: 1px solid red;
+}
+
+.navigation li {
+    list-style: none;
+    margin: 10px 0;
+    border: 1px solid red;
+}
+
+.navigation li a {
+    color: var(--black);
+    font-size: 1.2em;
+    letter-spacing: 4px;
+    display: inline-block;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid red;
+}
