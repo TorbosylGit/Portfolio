@@ -34,20 +34,17 @@ header {
 
 header.sticky {
     padding: 10px 100px;
-    /* padding: 10px; */
 }
 
 .logo {
-    position: relative;
-    display: inline-block;
     color: var(--black);
     text-decoration: none;
     font-size: 1.5em;
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 2px;
-    border: 1px solid red;
     margin-left: 40px;
+    border: 1px solid red;
 }
 
 .menuToggle {
@@ -100,14 +97,15 @@ header.sticky {
     text-transform: uppercase;
     border: 1px solid red;
 }
+
 section {
     position: relative;
-    /* padding: 100px;  */
     width: 100%;
     min-height: 100vh;
     background: var(--white);
     border: 1px solid red;
 }
+
 .cover {
     position: absolute;
     top: 0;
@@ -116,25 +114,18 @@ section {
     height: 100%;
     object-fit: cover;
 }
-/*
-.banner {
-    display: flex;
-    border: 1px solid red;
-    justify-content: center;
-    align-items: center;
-}
-.contentBx {
-    border: 1px solid red;
-    border-radius: 8px;
-    display: flex;
-}
-*/
+
 .banner {
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 .banner .contentBx {
     position: relative;
     z-index: 1;
+    border: 1px solid red;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: var(--white);
 }
