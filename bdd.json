@@ -1,0 +1,214 @@
+{
+    "project_1": {
+        "title": "Projet 1 : Page d'accueil d'une agence de voyage (HTML & CSS)",
+        "context_objectives": {
+            "heading": "Contexte et objectifs",
+            "description": "Ce projet avait pour but de créer la page d'accueil responsive d'une agence de voyage fictive en utilisant HTML et CSS. À partir de maquettes Figma, mon objectif principal était de concevoir une interface utilisateur s'adaptant aux formats mobile, tablette et desktop."
+        },
+        "techniques_skills": {
+            "heading": "Techniques et compétences employées",
+            "list": [
+                "Intégration de maquettes Figma : Travail avec des maquettes pour construire une interface fidèle au design, en respectant les spécificités visuelles et fonctionnelles demandées.",
+                "HTML sémantique : Utilisation de balises HTML appropriées pour structurer le contenu, optimisant ainsi l’accessibilité et le SEO.",
+                "CSS pour un design responsive : Application de techniques CSS avancées pour assurer l’adaptation de la page aux différentes tailles d'écran.",
+                "Validation du code : Vérification du respect des standards W3C pour garantir la compatibilité et la pérennité du site.",
+                "Organisation et lisibilité du CSS : Structuration du CSS selon des conventions et des bonnes pratiques pour un code clair et facilement maintenable."
+            ]
+        },
+        "presentation_experience": {
+            "heading": "Expérience en présentation et défense du projet",
+            "description": "Après avoir complété le projet, j'ai eu l'opportunité de le présenter et de le défendre devant un évaluateur, en expliquant mes choix techniques et en répondant à des questions spécifiques.",
+            "list": [
+                "La structure de mon code et son respect des standards du web.",
+                "Les détails de la mise en œuvre du design responsive.",
+                "L'approche de séparation entre HTML et CSS."
+            ],
+            "additional_description": "Cette expérience a renforcé mes compétences en communication technique, me permettant d'expliquer de manière claire et justifiée mes décisions, tout en démontrant ma capacité à recevoir et intégrer des retours constructifs."
+        },
+        "results": {
+            "heading": "Résultats",
+            "description": "Le projet a été validé et a constitué une base solide pour le développement de mes compétences en intégration web, en responsive design, et en présentation de projets techniques."
+        },
+        "github_link": "https://github.com/TorbosylGit/P2_Booki",
+        "title_text": "Découvrez comment j’ai conçu une page d’accueil responsive en HTML & CSS",
+        "description_text": "Page d'accueil d'une agence de voyage, design responsive en HTML et CSS",
+        "image_url": "img/P1.webp",
+        "image_alt": "Page d'accueil d'une agence de voyage, design responsive en HTML et CSS"
+    },
+    "project_2": {
+        "title": "Projet 2 : Créez une page web dynamique avec JavaScript",
+        "context_objectives": {
+            "heading": "Contexte et objectifs",
+            "description": "Ce projet consistait à créer une page web dynamique pour le site d’une architecte d’intérieur en utilisant JavaScript pour gérer les interactions et la communication avec une API."
+        },
+        "techniques_skills": {
+            "heading": "Techniques et compétences employées",
+            "list": [
+                "Gestion des événements utilisateurs : Utilisation de JavaScript pour capturer et gérer les actions de l'utilisateur sur la page.",
+                "Manipulation du DOM : Interactions dynamiques avec les éléments HTML pour une expérience utilisateur fluide et interactive.",
+                "API et communication serveur : Appels d'API pour récupérer et envoyer des données.",
+                "Validation des formulaires : Collecte et validation des informations saisies par les utilisateurs."
+            ]
+        },
+        "presentation_experience": {
+            "heading": "Expérience en présentation et défense du projet",
+            "description": "Lors de la soutenance, j’ai démontré comment j’ai intégré les différentes fonctionnalités et comment les utilisateurs peuvent interagir avec la galerie d'images de manière fluide.",
+            "list": [
+                "Présentation des fonctionnalités de filtrage des projets dans la galerie.",
+                "Explication de la mise en place du système de connexion sécurisé pour l’administrateur.",
+                "Démo du formulaire d’upload et de gestion des images dans la galerie via l’API."
+            ],
+            "additional_description": "Cette soutenance m'a permis de développer mes compétences en communication technique et en explication des choix de conception."
+        },
+        "results": {
+            "heading": "Résultats",
+            "description": "Le projet a été validé et m'a permis de consolider mes compétences en JavaScript, notamment en gestion d'événements et communication avec une API."
+        },
+        "github_link": "https://github.com/TorbosylGit/P3_JS_Project",
+        "title_text": "Découvrez la création d’une page web dynamique pour une architecte d'intérieur",
+        "description_text": "Page web dynamique pour un architecte d'intérieur, intégration JavaScript et API",
+        "image_url": "img/P2.webp",
+        "image_alt": "Page web dynamique pour un architecte d'intérieur, intégration JavaScript et API"
+    },
+    "project_3": {
+        "title": "Projet 3 : Débuggez et optimisez un site de photographie",
+        "context_objectives": {
+            "heading": "Contexte et objectifs",
+            "description": "Dans ce projet, j'ai travaillé en tant que développeur freelance pour optimiser le référencement, la performance et l'accessibilité d'un site de photographie."
+        },
+        "techniques_skills": {
+            "heading": "Techniques et compétences employées",
+            "list": [
+                "SEO (Search Engine Optimization) : Amélioration du référencement naturel.",
+                "Optimisation des performances : Utilisation de Lighthouse pour détecter et corriger les problèmes de performance.",
+                "Accessibilité : Amélioration de l'accessibilité avec des outils comme Wave.",
+                "Débogage avancé : Identification et correction de bugs impactant la navigation.",
+                "Rapport et documentation : Création d'un rapport détaillant les problèmes et les solutions."
+            ]
+        },
+        "presentation_experience": {
+            "heading": "Expérience en présentation et défense du projet",
+            "description": "J'ai présenté les optimisations effectuées pour améliorer la vitesse de chargement, le SEO, et l'accessibilité du site.",
+            "list": [
+                "Présentation des résultats d'audits de performance et d'accessibilité.",
+                "Explication des choix techniques pour optimiser la vitesse de chargement des images.",
+                "Présentation de l'impact des optimisations SEO pour améliorer le positionnement du site."
+            ],
+            "additional_description": "Cette expérience a renforcé mes compétences en SEO et en communication technique."
+        },
+        "results": {
+            "heading": "Résultats",
+            "description": "Le projet a été validé avec succès, avec des améliorations significatives en visibilité et en performance."
+        },
+        "github_link": "https://github.com/TorbosylGit/P4_Photography",
+        "title_text": "Voyez comment j’ai optimisé un site de photographie pour la performance et le SEO",
+        "description_text": "Optimisation d'un site de photographie, SEO, accessibilité et performances",
+        "image_url": "img/P3.webp",
+        "image_alt": "Optimisation d'un site de photographie, SEO, accessibilité et performances"
+    },
+    "project_4": {
+        "title": "Projet 4 : Créez une application web de location immobilière avec React",
+        "context_objectives": {
+            "heading": "Contexte et objectifs",
+            "description": "Dans ce projet, j'ai développé le front-end d'une application de location immobilière en utilisant React et React Router."
+        },
+        "techniques_skills": {
+            "heading": "Techniques et compétences employées",
+            "list": [
+                "React : Création d'interfaces dynamiques et réactives.",
+                "React Router : Configuration du routage entre les pages.",
+                "SASS : Gestion du style CSS de manière modulaire.",
+                "Fichier JSON comme source de données : Simulation de données dynamiques."
+            ]
+        },
+        "presentation_experience": {
+            "heading": "Expérience en présentation et défense du projet",
+            "description": "J'ai mis en avant les choix techniques pour assurer une navigation intuitive avec React.",
+            "list": [
+                "Explication de la logique de routage et de la navigation.",
+                "Démonstration de la gestion des composants React.",
+                "Présentation des animations CSS implémentées avec SASS."
+            ],
+            "additional_description": "Cette expérience a renforcé mes compétences en React et en présentation technique."
+        },
+        "results": {
+            "heading": "Résultats",
+            "description": "Le projet a été validé avec succès, ce qui m'a permis de renforcer mes compétences en React."
+        },
+        "github_link": "https://github.com/TorbosylGit/P5_RealEstate",
+        "title_text": "Explorez le développement d’une application de location immobilière en React",
+        "description_text": "Application de location immobilière en React, navigation avec React Router",
+        "image_url": "img/P4.webp",
+        "image_alt": "Application de location immobilière en React, navigation avec React Router"
+    },
+    "project_5": {
+        "title": "Projet 5 : Développez le back-end d'un site de notation de livres",
+        "context_objectives": {
+            "heading": "Contexte et objectifs",
+            "description": "Ce projet avait pour objectif de concevoir un back-end pour un site de notation de livres nommé 'Mon Vieux Grimoire'."
+        },
+        "techniques_skills": {
+            "heading": "Techniques et compétences employées",
+            "list": [
+                "Création de l'API RESTful : Routes pour les opérations CRUD.",
+                "Architecture MVC : Structuration pour une meilleure organisation.",
+                "Authentification et sécurité : Connexion sécurisée des utilisateurs.",
+                "Optimisation des images : Réduction de la taille des images uploadées."
+            ]
+        },
+        "presentation_experience": {
+            "heading": "Expérience en présentation et défense du projet",
+            "description": "J'ai expliqué comment le back-end assure la sécurité des données et structuré l'application.",
+            "list": [
+                "Présentation des opérations CRUD et de l'authentification.",
+                "Explication de l’architecture MVC.",
+                "Démo de l'optimisation des images."
+            ],
+            "additional_description": "Cette présentation a renforcé ma capacité à expliquer des concepts techniques avancés."
+        },
+        "results": {
+            "heading": "Résultats",
+            "description": "Le projet a été validé et m’a permis de maîtriser des compétences en back-end."
+        },
+        "github_link": "https://github.com/TorbosylGit/P6_BookRating",
+        "title_text": "Découvrez la création d'un back-end sécurisé pour un site de notation de livres",
+        "description_text": "Back-end d'un site de notation de livres, API RESTful et sécurité des données",
+        "image_url": "img/P5.webp",
+        "image_alt": "Back-end d'un site de notation de livres, API RESTful et sécurité des données"
+    },
+    "project_6": {
+        "title": "Projet 6 : Planifiez le développement du site de votre client",
+        "context_objectives": {
+            "heading": "Contexte et objectifs",
+            "description": "Ce projet consiste en la planification du développement d'un site web pour le client Qwenta."
+        },
+        "techniques_skills": {
+            "heading": "Techniques et compétences employées",
+            "list": [
+                "Gestion de projet : Utilisation de Notion pour un tableau Kanban.",
+                "Veille technologique : Utilisation de Feedly pour suivre les tendances.",
+                "Documentation technique : Rédaction de spécifications techniques précises.",
+                "Méthodologies agiles : Découpage des tâches en étapes claires."
+            ]
+        },
+        "presentation_experience": {
+            "heading": "Expérience en présentation et défense du projet",
+            "description": "J'ai démontré la capacité à structurer un projet complet sans développement direct.",
+            "list": [
+                "Présentation du tableau Kanban pour l'organisation des tâches.",
+                "Explication de la veille technologique.",
+                "Détail des spécifications techniques produites."
+            ],
+            "additional_description": "Cette présentation a renforcé ma capacité à expliquer des méthodologies de gestion de projet."
+        },
+        "results": {
+            "heading": "Résultats",
+            "description": "Le projet a été validé, renforçant mes compétences en gestion de projet."
+        },
+        "github_link": "",
+        "title_text": "Découvrez ma méthodologie pour planifier le développement d'un site web client",
+        "description_text": "Planification de développement pour un site client, gestion de projet et documentation",
+        "image_url": "img/P6.webp",
+        "image_alt": "Planification de développement pour un site client, gestion de projet et documentation"
+    }    
+}

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Développeur Web - Portfolio | Gilles - Disponible pour de nouvelles opportunités</title>
+        <meta name="description" content="Portfolio de Gilles, développeur web junior. Découvrez mes projets réalisés en HTML, CSS, JavaScript et React, ainsi que mon engagement dans le développement d’applications web modernes." />
+        <meta name="keywords" content="développeur web junior, portfolio, HTML, CSS, JavaScript, React, MongoDB, Express, projets web, Green Code, back-end, front-end, SEO" />
+        <meta name="author" content="Gilles" />
+        <!-- Open Graph / Facebook -->
+        <!-- Twitter -->
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <h1 class="logo">
+                <a href="#">Portfolio de développeur</a>
+            </h1>
+            <span class="menuToggle material-symbols-outlined">menu</span>
+        </header>
+        <nav>
+            <ul class="navigation">
+                <li><a href="#home" onclick="toggleMenu();">Accueil</a></li>
+                <li><a href="#about" onclick="toggleMenu();">À propos</a></li>
+                <li><a href="#post" onclick="toggleMenu();">Portfolio</a></li>
+                <li><a href="#contact" onclick="toggleMenu();">Contact</a></li>
+            </ul>
+        </nav>
+        <main>
+            <section class="banner" id="home">
+                <img src="https://i.pinimg.com/564x/47/58/cc/4758cc1bd8f673c9dc5e0f9923eb7c95.jpg" class="cover"/>
+                <div class="contentBx">
+                    <h2>Développeur Web</h2>
+                    <h3>Prêt à Contribuer et à Apprendre</h3>
+                    <a href="#post" class="btn">Voir mes réalisations</a>
+                </div>
+            </section>
+            <section class="about" id="about">
+                <div class="title">
+                    <h2>À propos</h2>
+                </div>
+                <div class="gridBx">
+                    <div class="content">
+                        <p>Bienvenue sur mon portfolio ! Je suis un développeur web motivé, récemment diplômé et passionné par la création de solutions web modernes et efficaces. Tout au long de mes projets, j'ai acquis des compétences solides en HTML, CSS, JavaScript et React, et je me suis familiarisé avec des outils essentiels tels que Git, Express et MongoDB.</p>
+                        <p>Mon parcours de formation m'a permis de développer des applications web fonctionnelles et d'optimiser le back-end de systèmes de notation, tout en respectant les meilleures pratiques du Green Code. Ces expériences m'ont aidé à comprendre l’importance de la structure du code, de la sécurité et de la performance dans le développement web.</p>
+                        <p>Si vous cherchez un développeur qui est à la fois engagé à apprendre et à contribuer activement aux projets, je suis prêt à relever le défi. Avec ma capacité à m’adapter rapidement et mon souci constant de qualité, je suis convaincu de pouvoir apporter une vraie valeur ajoutée à vos équipes.</p>
+                        <p>Gilles (TorbosylGit).</p>
+                    </div>
+                <div class="content">
+                    <div class="imgBx">
+                        <img src="img/webp/Gilles.webp" class="cover" />
+                    </div>
+                </div>
+            </section>
+             <section class="post" id="post">
+                <div class="title" id="project-title">
+                    <h2>Mon Portfolio</h2>
+                </div>
+                <div class="infoBx" id="project-description">
+                    <div class="content">
+                        <p>Mon portfolio est une vitrine de mes projets réalisés, chacun reflétant un aspect de mes compétences techniques et de mon engagement dans le développement web. Vous trouverez ici des projets variés, de la création de pages responsives au développement de back-end sécurisé.</p>
+                        <p>La diversité des projets démontre ma capacité à gérer plusieurs aspects du développement web, aussi bien en front-end qu’en back-end. Cela prouve ma flexibilité et ma volonté d’apprendre des technologies modernes.</p>
+                        <p>Bien que je sois encore en phase d’apprentissage, chaque projet m’a permis de monter en compétences et de mieux comprendre les besoins d'un site web fonctionnel et sécurisé.</p>
+                        <p>Je prévois d’ajouter des fonctionnalités interactives et de rendre le portfolio plus dynamique, notamment en intégrant des animations et des projets plus complexes au fur et à mesure de mon évolution professionnelle.</p>
+                    </div>
+                </div>
+                <div class="projectGrid">
+                    <!-- chargement des projets ici par JavaScript -->
+                </div>
+                <div class="title">
+                    <a href="#post" class="btn">Afficher plus</a>
+                </div>
+             </section>
+             <section class="contact" id="contact">
+                <div class="title">
+                    <h2>Intéressé par mon profil ? Échangeons !</h2>
+                </div>
+                <div class="infoBx">
+                    <div class="content">
+                        <p>Je suis à la recherche d'une première opportunité en tant que salarié. Motivé, polyvalent et prêt à m’investir pleinement, je suis impatient de rejoindre une équipe où je pourrai mettre en pratique mes compétences et continuer à évoluer. Contactez-moi pour discuter d’une collaboration !</p>                        
+                    </div>
+                </div>
+                <div class="contactForm">
+                    <div class="row">
+                        <input type="text" name="email_address" placeholder="Adresse e-mail">
+                        <input type="text" name="mobile_number" placeholder="Numéro de téléphone">
+                    </div>
+                    <div class="row">
+                        <input type="text" name="first_name" placeholder="Prénom">
+                        <input type="text" name="last_name" placeholder="Nom">
+                    </div>
+                    <div class="row2">
+                        <textarea name="message" placeholder="Message"></textarea>
+                    </div>
+                    <div class="row2">
+                        <input type="submit" value="Envoyer" class="btn">
+                    </div>
+                </div>
+                
+            </section>
+             <footer>
+                <a href="#" class="logo">Portfolio de développeur</a>
+                <ul class="footerMenu">
+                    <li><a href="#home">Accueil</a></li>
+                    <li><a href="#about">À propos</a></li>
+                    <li><a href="#post">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>    
+                </ul>
+                <p class="copyrightText">Copyright © <span id="currentYear"></span> TorbosylGit. All rights reserved</p>
+             </footer>
+        </main>
+        <script src="script.js"></script>
+    </body>
+</html>
