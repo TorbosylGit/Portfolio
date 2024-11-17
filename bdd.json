@@ -1,6 +1,7 @@
 {
     "project_1": {
         "title": "Projet 1 : Page d'accueil d'une agence de voyage (HTML & CSS)",
+        "date": "2024-04-03",
         "context_objectives": {
             "heading": "Contexte et objectifs",
             "description": "Ce projet avait pour but de créer la page d'accueil responsive d'une agence de voyage fictive en utilisant HTML et CSS. À partir de maquettes Figma, mon objectif principal était de concevoir une interface utilisateur s'adaptant aux formats mobile, tablette et desktop."
@@ -37,6 +38,7 @@
     },
     "project_2": {
         "title": "Projet 2 : Créez une page web dynamique avec JavaScript",
+        "date": "2024-06-12",
         "context_objectives": {
             "heading": "Contexte et objectifs",
             "description": "Ce projet consistait à créer une page web dynamique pour le site d’une architecte d’intérieur en utilisant JavaScript pour gérer les interactions et la communication avec une API."
@@ -72,6 +74,7 @@
     },
     "project_3": {
         "title": "Projet 3 : Débuggez et optimisez un site de photographie",
+        "date": "2024-07-10",
         "context_objectives": {
             "heading": "Contexte et objectifs",
             "description": "Dans ce projet, j'ai travaillé en tant que développeur freelance pour optimiser le référencement, la performance et l'accessibilité d'un site de photographie."
@@ -108,6 +111,7 @@
     },
     "project_4": {
         "title": "Projet 4 : Créez une application web de location immobilière avec React",
+        "date": "2024-08-29",
         "context_objectives": {
             "heading": "Contexte et objectifs",
             "description": "Dans ce projet, j'ai développé le front-end d'une application de location immobilière en utilisant React et React Router."
@@ -143,6 +147,7 @@
     },
     "project_5": {
         "title": "Projet 5 : Développez le back-end d'un site de notation de livres",
+        "date": "2024-10-11",
         "context_objectives": {
             "heading": "Contexte et objectifs",
             "description": "Ce projet avait pour objectif de concevoir un back-end pour un site de notation de livres nommé 'Mon Vieux Grimoire'."
@@ -178,6 +183,7 @@
     },
     "project_6": {
         "title": "Projet 6 : Planifiez le développement du site de votre client",
+        "date": "2024-10-29",
         "context_objectives": {
             "heading": "Contexte et objectifs",
             "description": "Ce projet consiste en la planification du développement d'un site web pour le client Qwenta."
@@ -210,5 +216,48 @@
         "description_text": "Planification de développement pour un site client, gestion de projet et documentation",
         "image_url": "img/P6.webp",
         "image_alt": "Planification de développement pour un site client, gestion de projet et documentation"
-    }    
+    },
+    "effect_visual_banner": {
+        "title": "Bannière Animée Dynamique : Icônes et JavaScript en Action",
+        "date": "2024-11-17",
+        "context_objectives": {
+            "heading": "Contexte et Objectifs",
+            "description": "Pour enrichir l’interactivité de mon portfolio, j’ai conçu un effet visuel unique pour remplacer une image statique dans la bannière. Cet effet démontre ma capacité à allier créativité et compétences techniques en développement front-end."
+        },
+        "techniques_skills": {
+            "heading": "Technologies et Compétences",
+            "list": [
+                "JavaScript : manipulation dynamique du DOM pour générer et animer des éléments.",
+                "Unicode : récupération des icônes Font Awesome via des codes Unicode compatibles.",
+                "Anime.js : animation fluide avec transitions naturelles et contrôle des mouvements.",
+                "CSS : responsive design et optimisation des styles."
+            ]
+        },
+        "presentation_experience": {
+            "heading": "Fonctionnalités et Expérience",
+            "description": "Cet effet visuel met en scène des icônes uniques issues de la bibliothèque Font Awesome, générées dynamiquement à l’aide de codes Unicode compatibles. Chaque icône est positionnée aléatoirement dans une zone définie, avec une taille, une trajectoire et une vitesse uniques. L’animation est infinie, avec des rebonds fluides et réalistes sur les bords de l’écran, offrant une expérience visuelle dynamique.",
+            "list": [
+                "Récupération dynamique d’icônes Font Awesome via des codes Unicode compatibles.",
+                "Génération unique et aléatoire des icônes pour chaque instance d’animation.",
+                "Placement aléatoire initial des icônes dans une zone définie.",
+                "Animation fluide avec gestion des rebonds pour des mouvements naturels.",
+                "Adaptation automatique des dimensions en fonction de la taille de l’écran.",
+                "Utilisation de la bibliothèque Anime.js pour des transitions fluides et complexes.",
+                "Optimisation des performances grâce à des calculs asynchrones pour le placement et les rebonds.",
+                "Gestion précise des collisions pour garantir des trajectoires réalistes.",
+                "Approche modulaire permettant une personnalisation et une réutilisation aisées.",
+                "Expérience visuelle engageante grâce à des effets de rebond et de mouvement infinis."
+            ],
+            "additional_description": "Ce projet m’a permis d’expérimenter des techniques avancées en manipulation DOM, en gestion d’animations complexes et en optimisation des performances pour des effets visuels fluides."
+        },
+        "results": {
+            "heading": "Résultats",
+            "description": "L’effet visuel animé apporte une touche moderne et dynamique à la bannière de mon portfolio. Il reflète mon souci du détail, mon sens de l’esthétique et ma maîtrise des technologies front-end avancées."
+        },
+        "github_link": "https://github.com/TorbosylGit/Portfolio",
+        "title_text": "Découvrez un effet visuel captivant conçu pour la bannière de mon portfolio, mettant en scène des animations d'icônes Font Awesome générées dynamiquement avec JavaScript. Un projet démontrant créativité, précision et maîtrise des technologies interactives.",
+        "description_text": "Aperçu de l'effet visuel animé avec icônes dynamiques pour la bannière.",
+        "image_url": "img/animation-icones-font-awesome-banniere-developpeur-web.webp",
+        "image_alt": "Aperçu de l'effet visuel animé avec icônes dynamiques pour la bannière"
+    }
 }
